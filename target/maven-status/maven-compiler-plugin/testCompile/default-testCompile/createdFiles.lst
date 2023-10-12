@@ -1,0 +1,6 @@
+com/example/basket/domain/service/VasItemServiceImplTest.class
+com/example/basket/domain/service/ItemServiceImplTest.class
+com/example/basket/BasketApplicationTests.class
+com/example/basket/domain/service/PromotionServiceImplTest.class
+com/example/basket/domain/controller/CartControllerTest.class
+com/example/basket/domain/service/CartServiceImplTest.class
