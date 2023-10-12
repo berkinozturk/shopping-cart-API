@@ -35,7 +35,7 @@ To build the project, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/DevelopmentHiring/BerkinOzturk.git
+   git clone https://github.com/berkinozturk/shopping-cart-API.git
 
 2. Build the Project
    
