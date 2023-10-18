@@ -1,4 +1,4 @@
-# Basket API
+# Shopping Cart API
 
 Basket API is a Spring Boot application that provides functionality for managing shopping carts and applying promotions.
 
